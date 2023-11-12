@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react'
 import {ThreeDots} from 'react-loader-spinner'
-import DataTable from 'react-data-table-component'
+
 import {BiSearch} from 'react-icons/bi'
 import Sales from '../Sales'
 import './index.css'
