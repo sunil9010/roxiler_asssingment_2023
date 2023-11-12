@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "engines": {
-    "node": "^10.13 || 12 || 14 || 15",
-    "npm": ">=6"
+    "node": "^16.14.0",
+    "pnpm": "^6.32.10"
   },
   "dependencies": {
     "@testing-library/jest-dom": "5.11.9",
@@ -30,8 +30,7 @@
     "lint-staged": "10.5.4",
     "npm-run-all": "4.1.5",
     "prettier": "2.2.1",
-    "react-scripts": "4.0.3",
-    "pnpm": "^<compatible_version>"
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
